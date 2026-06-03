@@ -1,7 +1,7 @@
 Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment Status,Risk Score,Underwriting Reasoning
 2026-06-03T00:32:36.323+05:30,Ruban John,765489032150,"₹80,000.00","₹45,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67% 
  • RISK INDEX: Low 
- • CORE FACTOR: Applicant demonstrates exceptional financial stability with a very low debt-to-income ratio, indicating strong repayment capacity."
+ • CORE FACTOR: Ruban John exhibits robust financial stability with a significantly low debt-to-income ratio, indicating excellent repayment capacity."
 2026-06-02T21:54:06.615+05:30,Kedi Billa,7321456098742,"₹120,000.00","₹20,000.00",Approved,18,"• DEBT-TO-INCOME: 24%
 • RISK INDEX: Low
 • CORE FACTOR: High creditworthiness and manageable debt levels suggest a very low probability of default."
@@ -89,10 +89,7 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T14:56:14.448+05:30,Ajith Kumar,321321321321,"₹72,000.00","₹46,000.00",Rejected,36,"• DEBT-TO-INCOME: 63.89% 
  • RISK INDEX: High 
  • CORE FACTOR: Applicant exhibits high financial leverage with over sixty-three percent of monthly income directed toward existing debt obligations."
-2026-06-03T20:12:30.702+05:30,Glenn Maxwell,536473829177,83000,29000,Processing,0,Analyzing financial parameters...
-2026-06-03T20:17:50.926+05:30,Steven Smith,456321876789,63000,21000,Approved,75,"• DEBT-TO-INCOME: 33.33% 
- • RISK INDEX: Medium 
- • CORE FACTOR: Steven Smith demonstrates a manageable debt burden relative to income, indicating a good capacity for repayment."
 2026-06-03T20:44:36.133+05:30,DJ Bravo,112233445566,"₹54,000.00","₹17,000.00",Approved,72,"• DEBT-TO-INCOME: 31.48% 
  • RISK INDEX: Medium 
  • CORE FACTOR: The applicant maintains an acceptable debt-to-income ratio, demonstrating moderate capacity to manage additional financial obligations."
+2026-06-03T20:49:30.029+05:30,Ruban John,765489032150,120000,20000,Processing,0,Analyzing financial parameters...
