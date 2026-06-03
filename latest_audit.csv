@@ -104,3 +104,6 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T21:10:00.113+05:30,Peter Parker,456354729821,"₹99,000.00","₹81,000.00",Rejected,15,"• DEBT-TO-INCOME: 81.82% 
  • RISK INDEX: High 
  • CORE FACTOR: The applicant's debt-to-income ratio is critically high, indicating severe financial strain and very limited repayment capacity."
+2026-06-03T21:22:01.401+05:30,Walter White,123456789192,"₹120,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67% 
+ • RISK INDEX: Low 
+ • CORE FACTOR: Applicant demonstrates excellent financial capacity with a very low debt-to-income ratio, indicating strong repayment potential."
