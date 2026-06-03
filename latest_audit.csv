@@ -68,8 +68,6 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T13:24:19.715+05:30,Roshan John,333335555512,"₹120,000.00","₹20,000.00",Approved,93,"• DEBT-TO-INCOME: 16.67% 
  • RISK INDEX: Low 
  • CORE FACTOR: Applicant exhibits very strong financial health with excellent debt management and substantial disposable income."
-,,,,,,,
-,,,,,,,
 2026-06-03T13:41:52.618+05:30,Gwen Tennyson,967710263300,"₹75,000.00","₹30,000.00",Approved,70,"• DEBT-TO-INCOME: 40.0% 
  • RISK INDEX: Medium 
  • CORE FACTOR: The applicant demonstrates acceptable creditworthiness with a stable monthly income, though a 40% debt-to-income ratio suggests moderate financial leverage."
@@ -91,3 +89,7 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T14:56:14.448+05:30,Ajith Kumar,321321321321,"₹72,000.00","₹46,000.00",Rejected,36,"• DEBT-TO-INCOME: 63.89% 
  • RISK INDEX: High 
  • CORE FACTOR: Applicant exhibits high financial leverage with over sixty-three percent of monthly income directed toward existing debt obligations."
+2026-06-03T20:12:30.702+05:30,Glenn Maxwell,536473829177,83000,29000,Processing,0,Analyzing financial parameters...
+2026-06-03T20:17:50.926+05:30,Steven Smith,456321876789,63000,21000,Approved,75,"• DEBT-TO-INCOME: 33.33% 
+ • RISK INDEX: Medium 
+ • CORE FACTOR: Steven Smith demonstrates a manageable debt burden relative to income, indicating a good capacity for repayment."
