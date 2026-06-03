@@ -101,4 +101,6 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T21:01:04.293+05:30,George Push,987654329876,"₹72,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 27.78% 
  • RISK INDEX: Low 
  • CORE FACTOR: George Push exhibits excellent repayment capacity supported by a low debt-to-income ratio."
-2026-06-03T21:05:43.014+05:30,Ruban John,765489032150,"₹120,000.00","₹20,000.00",Processing,0,Analyzing financial parameters...
+2026-06-03T21:10:00.113+05:30,Peter Parker,456354729821,"₹99,000.00","₹81,000.00",Rejected,15,"• DEBT-TO-INCOME: 81.82% 
+ • RISK INDEX: High 
+ • CORE FACTOR: The applicant's debt-to-income ratio is critically high, indicating severe financial strain and very limited repayment capacity."
