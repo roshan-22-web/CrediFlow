@@ -98,3 +98,6 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T20:58:40.546+05:30,Valentino Rossi,873256178922,"₹38,000.00","₹23,000.00",Rejected,25,"• DEBT-TO-INCOME: 60.53% 
  • RISK INDEX: High 
  • CORE FACTOR: The applicant demonstrates a very high debt-to-income ratio, indicating substantial financial leverage and limited capacity for new credit obligations."
+2026-06-03T21:01:04.293+05:30,George Push,987654329876,"₹72,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 27.78% 
+ • RISK INDEX: Low 
+ • CORE FACTOR: George Push exhibits excellent repayment capacity supported by a low debt-to-income ratio."
