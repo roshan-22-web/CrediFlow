@@ -1,7 +1,7 @@
 Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment Status,Risk Score,Underwriting Reasoning
-2026-06-03T00:32:36.323+05:30,Ruban John,765489032150,"₹80,000.00","₹45,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67% 
- • RISK INDEX: Low 
- • CORE FACTOR: Ruban John exhibits robust financial stability with a significantly low debt-to-income ratio, indicating excellent repayment capacity."
+2026-06-03T00:32:36.323+05:30,Ruban John,765489032150,"₹80,000.00","₹45,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67%
+• RISK INDEX: Low
+• CORE FACTOR: Applicant demonstrates excellent financial health with a very strong debt-to-income ratio, indicating high repayment capacity."
 2026-06-02T21:54:06.615+05:30,Kedi Billa,7321456098742,"₹120,000.00","₹20,000.00",Approved,18,"• DEBT-TO-INCOME: 24%
 • RISK INDEX: Low
 • CORE FACTOR: High creditworthiness and manageable debt levels suggest a very low probability of default."
@@ -101,3 +101,4 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T21:01:04.293+05:30,George Push,987654329876,"₹72,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 27.78% 
  • RISK INDEX: Low 
  • CORE FACTOR: George Push exhibits excellent repayment capacity supported by a low debt-to-income ratio."
+2026-06-03T21:02:53.907+05:30,Ruban John,765489032150,"₹120,000.00","₹20,000.00",Processing,0,Analyzing financial parameters...
