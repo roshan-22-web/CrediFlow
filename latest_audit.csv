@@ -92,7 +92,9 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T20:44:36.133+05:30,DJ Bravo,112233445566,"₹54,000.00","₹17,000.00",Approved,72,"• DEBT-TO-INCOME: 31.48% 
  • RISK INDEX: Medium 
  • CORE FACTOR: The applicant maintains an acceptable debt-to-income ratio, demonstrating moderate capacity to manage additional financial obligations."
-,,,,,,,
 2026-06-03T20:52:10.164+05:30,Roshan John,221122118743,"₹100,000.00","₹30,000.00",Approved,90,"• DEBT-TO-INCOME: 30.00% 
  • RISK INDEX: Low 
  • CORE FACTOR: The applicant demonstrates a strong capacity for managing debt with an excellent debt-to-income ratio."
+2026-06-03T20:58:40.546+05:30,Valentino Rossi,873256178922,"₹38,000.00","₹23,000.00",Rejected,25,"• DEBT-TO-INCOME: 60.53% 
+ • RISK INDEX: High 
+ • CORE FACTOR: The applicant demonstrates a very high debt-to-income ratio, indicating substantial financial leverage and limited capacity for new credit obligations."
