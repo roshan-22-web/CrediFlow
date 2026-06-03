@@ -110,3 +110,6 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T22:46:12.258+05:30,Praveen Kumar,987654321234,"₹120,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67%
  • RISK INDEX: Low
  • CORE FACTOR: Praveen Kumar demonstrates exceptional financial health with a very low debt-to-income ratio, indicating high repayment capacity."
+2026-06-03T23:45:29.762+05:30,,,,,Rejected,0,"• DEBT-TO-INCOME: N/A (Missing Monthly Income and Debt values) 
+ • RISK INDEX: High 
+ • CORE FACTOR: The absence of essential financial data prevents any form of creditworthiness assessment, resulting in a rejected application."
