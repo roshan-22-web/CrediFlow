@@ -107,3 +107,6 @@ Timestamp,Applicant Name,Account Number,Monthly Income,Monthly Debt,Assessment S
 2026-06-03T21:22:01.401+05:30,Walter White,123456789192,"₹120,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67% 
  • RISK INDEX: Low 
  • CORE FACTOR: Applicant demonstrates excellent financial capacity with a very low debt-to-income ratio, indicating strong repayment potential."
+2026-06-03T22:46:12.258+05:30,Praveen Kumar,987654321234,"₹120,000.00","₹20,000.00",Approved,92,"• DEBT-TO-INCOME: 16.67%
+ • RISK INDEX: Low
+ • CORE FACTOR: Praveen Kumar demonstrates exceptional financial health with a very low debt-to-income ratio, indicating high repayment capacity."
